@@ -103,3 +103,28 @@ de desarrollar una aplicación web.
     * MongoDB
     * Schema
     * DTD
+
+# FAQ
+
+## Experiencia en el perfil solicitado
+Soy un desarrollador principalmente de frontend con muy buenos conocimientos sobre
+todas las tecnologías involucradas (JS, HTML5, CSS3, Saas, jQuery, Bootstrap...
+por mencionar algunas).
+
+Con respecto al backend mis proyectos han sido más escasos destacando un webservice
+realizado con Node.js durante mis prácticas de empresa. Y relacionado con J2EE y PHP he 
+realizado algún proyecto en el transcurso de mis clases del FP de Desarrollo Web
+usando JSP, JavaBeans, Hibernate, Spring y CodeIgniter.
+
+## Nivel de inglés
+Mi nivel de inglés es bastante bueno, habiendo acabado este año el b2.1 en la 
+Escuela oficial de idiomas. No obstante mi nivel de inglés es algo superior y 
+puede comprobarse en mi cuenta de twitter (@edgarshurtado) y mi blog personal 
+(http://edgarsh.es)
+
+## Expectativas salariales
+Lo suficiente como para poder alquilarme un piso en [sitio] y vivir allí.
+
+## Disponibilidad de incorporación
+Mi incorporación podría ser inmediata con la salvedad de que el 20 de junio he 
+de presentar mi proyecto final de FP.

@@ -123,7 +123,8 @@ puede comprobarse en mi cuenta de twitter (@edgarshurtado) y mi blog personal
 (http://edgarsh.es)
 
 ## Expectativas salariales
-Lo suficiente como para poder alquilarme un piso en [sitio] y vivir allí.
+Mis pretensiones económicas serían de ganar lo suficiente como para poder 
+alquilarme una habitación en [sitio] y vivir allí.
 
 ## Disponibilidad de incorporación
 Mi incorporación podría ser inmediata con la salvedad de que el 20 de junio he 

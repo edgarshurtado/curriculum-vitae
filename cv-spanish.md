@@ -42,6 +42,9 @@ cluster
         * Certificación: B2.1 (Escuela Oficial de Idiomas)
 
 ## Cursos
+* Learn and understand AngularJS - udemy
+    * Duración: 7 horas
+    * Año de realización: 2016
 * How to use Git and GitHub - udacity
     * Duración: 12 horas
     * Año realización: 2016

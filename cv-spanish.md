@@ -112,7 +112,8 @@ de desarrollar una aplicación web.
 ## Experiencia en el perfil solicitado
 Soy un desarrollador principalmente de frontend con muy buenos conocimientos sobre
 todas las tecnologías involucradas (JS, HTML5, CSS3, Saas, jQuery, Bootstrap...
-por mencionar algunas).
+por mencionar algunas). También cuento con experiencia con la librería Polymer,
+ ya que durante mis prácticas de empresa estuve desarrollando web-components con ella.
 
 Con respecto al backend mis proyectos han sido más escasos destacando un webservice
 realizado con Node.js durante mis prácticas de empresa. Y relacionado con J2EE y PHP he 
@@ -127,7 +128,7 @@ puede comprobarse en mi cuenta de twitter (@edgarshurtado) y mi blog personal
 
 ## Expectativas salariales
 Mis pretensiones económicas serían de ganar lo suficiente como para poder 
-alquilarme una habitación en [sitio] y vivir allí.
+alquilarme una habitación lo más cerca posible de mi lugar de trabajo.
 
 ## Disponibilidad de incorporación
 Mi incorporación podría ser inmediata con la salvedad de que el 20 de junio he 
